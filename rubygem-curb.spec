@@ -4,7 +4,7 @@
 #
 Name     : rubygem-curb
 Version  : 0.8.8
-Release  : 6
+Release  : 7
 URL      : https://rubygems.org/downloads/curb-0.8.8.gem
 Source0  : https://rubygems.org/downloads/curb-0.8.8.gem
 Summary  : No detailed summary available
@@ -12,10 +12,13 @@ Group    : Development/Tools
 License  : Ruby
 Requires: rubygem-curb-lib
 BuildRequires : curl-dev
+BuildRequires : libidn-dev
+BuildRequires : openssl-dev
 BuildRequires : ruby
 BuildRequires : rubygem-rake
 BuildRequires : rubygem-rdoc
 BuildRequires : rubygem-test-unit
+BuildRequires : zlib-dev
 
 %description
 # Curb - Libcurl bindings for Ruby
