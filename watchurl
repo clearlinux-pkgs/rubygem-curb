@@ -1,0 +1,4 @@
+# File auto-generated with 'Watchfile generator'
+# 2016-02-25 23:03:08.333581
+# {'development', '<=0.8.6'}
+watchurl=https://rubygems.org/gems/curb/versions/(0\.[0-8](\.[0-6])?)
