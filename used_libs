@@ -3,6 +3,7 @@ libcrypt.so.1
 libcrypto.so.1.0.0
 libcurl.so.4
 libdl.so.2
+libgmp.so.10
 libidn.so.11
 libm.so.6
 libpthread.so.0

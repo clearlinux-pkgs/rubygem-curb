@@ -1,1 +1,1 @@
-pushd %{buildroot}%{gem_dir}/gems/curb-0.8.8 && rake --trace test TESTOPTS="-v" || : && popd
+pushd %{buildroot}%{gem_dir}/gems/curb-0.9.3 && rake --trace test TESTOPTS="-v" || : && popd
