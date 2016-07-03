@@ -4,3 +4,6 @@ rubygem-test-unit
 libidn-dev
 zlib-dev
 openssl-dev
+gmp-dev
+xz-dev
+curl-dev
